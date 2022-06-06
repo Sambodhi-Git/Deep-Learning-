@@ -1,0 +1,6 @@
+Learn lstm auto encoders
+Implement Auto encoders in pytorch
+Ecg Dataset working on lstm Auto encoders
+Read Images
+Know about Adversarial training
+Know about VATs
